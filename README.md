@@ -1,8 +1,8 @@
-# Base44 App
+# Interactive Zine Maker
 
-
-This app was created automatically by Base44.
+I used Base44 to create this app.
 It's a Vite+React app that communicates with the Base44 API.
+It's MIT licensed. Share, remix, create your own zines :heart:
 
 ## Running the app
 
@@ -17,4 +17,10 @@ npm run dev
 npm run build
 ```
 
-For more information and support, please contact Base44 support at app@base44.com.
+## Try it in action
+My first prototype - [shattered self](https://shatteredself.base44.app/)
+
+## On the roadmap
+- Pull out the Base44 integrations. Yes, all of them.
+- Change integrations for the text-to-image LLM so it can make more stuff.
+- Work on performance. This app is *slow*.
